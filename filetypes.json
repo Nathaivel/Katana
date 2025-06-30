@@ -1,0 +1,13 @@
+[
+	{
+		".py":"python",
+		".txt":"text",
+		".js":"javascript",
+		".cpp":"c++",
+		".c":"c",
+		".rb":"ruby",
+		".json":"json",
+		".html":"html",
+		".css":"css"
+	}
+]
